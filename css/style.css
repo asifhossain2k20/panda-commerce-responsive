@@ -1,16 +1,24 @@
-
-.categories img{
-    width: 100px;
-}
-.panda-card{
-    border:0;
-}
-
-.panda-card-footer{
-    background-color: white;
-    border: 0;
-}
-.panda-slide .carousel-item{
+.carousel-bg-color{
     background-color: #fceae8;
     border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+    height: 100px;
+}
+.categories .c-1{
+    background-color: #ffc107;
+}
+.categories .c-2{
+    background-color: #DA70D6 ;
+}
+.categories .c-3{
+    background-color:  #0000FF;
+}
+.card-bg{
+    border: 0;
+}
+.card-footer-bg{
+    border: 0;
+    background-color: white;
 }
